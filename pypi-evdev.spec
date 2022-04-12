@@ -4,7 +4,7 @@
 #
 Name     : pypi-evdev
 Version  : 1.5.0
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/47/f0/650d83c84386d4a79e91e5c826f4ea10315c0708ea784e79c1b67e18bf26/evdev-1.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/47/f0/650d83c84386d4a79e91e5c826f4ea10315c0708ea784e79c1b67e18bf26/evdev-1.5.0.tar.gz
 Summary  : Bindings to the Linux input handling subsystem
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1648148116
+export SOURCE_DATE_EPOCH=1649742231
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
