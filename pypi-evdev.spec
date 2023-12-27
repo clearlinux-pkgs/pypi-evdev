@@ -5,7 +5,7 @@
 #
 Name     : pypi-evdev
 Version  : 1.6.1
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/05/50/629b011a7f61cb2fca754ea8631575784bf8605a1ec4d6970a010bc54e2b/evdev-1.6.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/05/50/629b011a7f61cb2fca754ea8631575784bf8605a1ec4d6970a010bc54e2b/evdev-1.6.1.tar.gz
 Summary  : Bindings to the Linux input handling subsystem
