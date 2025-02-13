@@ -7,7 +7,7 @@
 #
 Name     : pypi-evdev
 Version  : 1.9.0
-Release  : 47
+Release  : 48
 URL      : https://files.pythonhosted.org/packages/8c/bf/0fe4d372ee62fe5aec06aae2e97c0603d131b8e3cbaffa2329e0bd763a98/evdev-1.9.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8c/bf/0fe4d372ee62fe5aec06aae2e97c0603d131b8e3cbaffa2329e0bd763a98/evdev-1.9.0.tar.gz
 Summary  : Bindings to the Linux input handling subsystem
